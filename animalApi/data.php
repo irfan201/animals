@@ -24,7 +24,7 @@
     }
 
     echo json_encode(
-        array( 'AnimalsResponse' => $result )
+        array( 'AnimalsResponse' => $result)
     );
 
 
